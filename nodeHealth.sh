@@ -15,9 +15,9 @@
 
 set -exo pipefail
 df -h
-kjhgkjhbkjlhlkjhjkhl
+
 free -g
-nproc
+nproc #checks for the number of cpu
 
 ps -ef | grep amazon | awk -F " " '{print $2}'
 
