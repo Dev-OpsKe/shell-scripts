@@ -11,3 +11,6 @@ x=a+b
 
 #subtraction
 x=a-b
+
+#Division
+x=a/b
