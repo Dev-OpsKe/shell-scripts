@@ -15,10 +15,11 @@ x=a-b
 #Division
 x=a/b
 
+#Multiplication
+x=a*b
 
 #Logarithm
 x=log10(a)+log10(b)
 
-#Multiplication
-x=a*b
+
 
