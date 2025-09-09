@@ -14,3 +14,6 @@ x=a-b
 
 #Division
 x=a/b
+
+#Logarithm
+x=log10(a)+log10(b)
